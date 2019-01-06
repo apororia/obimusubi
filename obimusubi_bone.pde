@@ -21,6 +21,7 @@
  ^ key: flip horizontal
  
  others
+ b key: bone on/off
  s key: save screen as png
  */
 
